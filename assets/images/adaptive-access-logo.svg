@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 150" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">Adaptive Access LLC symbol</title>
+  <desc id="logo-desc">A simple abstract symbol showing a rising ramp level and stable ground line.</desc>
+
+  <g transform="translate(14 26)">
+    <path
+      d="M8 82H42L90 44H132"
+      fill="none"
+      stroke="#0d5f63"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="12"
+    />
+    <path
+      d="M8 96H132"
+      fill="none"
+      stroke="#c26e1f"
+      stroke-linecap="round"
+      stroke-width="6"
+      opacity="0.95"
+    />
+  </g>
+</svg>
