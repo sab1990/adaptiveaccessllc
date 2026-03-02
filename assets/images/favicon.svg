@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Adaptive Access LLC icon">
+  <rect width="160" height="160" rx="28" fill="#f3f8f7" />
+  <path
+    d="M22 96H52L102 56H138"
+    fill="none"
+    stroke="#0d5f63"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="14"
+  />
+  <path
+    d="M22 112H138"
+    fill="none"
+    stroke="#c26e1f"
+    stroke-linecap="round"
+    stroke-width="8"
+    opacity="0.95"
+  />
+</svg>
